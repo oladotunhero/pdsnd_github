@@ -13,5 +13,5 @@ Used this project to learn about the usage of git and github
 Files used in this project include readme.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity learning platform
 
